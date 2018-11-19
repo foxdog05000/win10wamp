@@ -1,0 +1,21 @@
+{
+  "name": "win10wamp",
+  "author": "foxdog05000",
+  "license": "MIT",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxdog05000/win10wamp.git"
+  },
+  "description": "Moderne ui for wamp, lamp",
+  "keywords": [
+    "wamp",
+    "lamp",
+    "homepage",
+    "gui"
+  ],
+  "bugs": {
+    "url": "https://github.com/foxdog05000/win10wamp/issues"
+  },
+  "homepage": "https://github.com/foxdog05000/win10wamp#readme"
+}
